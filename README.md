@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**AnthonyCifuentes/AnthonyCifuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Web and Mobile Developer working in Guatemala, Guatemala 🚀.
 
-Here are some ideas to get you started:
+##### SKILLS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ ReactJS
+- 🅰 ️Angular
+- 🔵 Ionic
+- 🧿 React Native
+- 👨‍💻 Backend (nodejs, express, sequelize, mySQL)
+- 🎨 Design (Ilustrator, XD, Figma)
+
+##### BIO
+
+- 🏢 I'm currently working at [**Pentcloud**](https://pentcloud.com)
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.ai`
+- 💗 Loving Javascript and new challenges
+- 💬 Ask me about apps design, development and life's experiences. 
+
+
+##### Social
+- [**Instagram (@anthonytech_)**](https://www.instagram.com/anthonytech_)
+- [**Twitter (@anthonytech_)**](https://twitter.com/anthonytech_)
