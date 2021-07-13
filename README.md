@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #### I'm a Web and Mobile Developer working in Guatemala, Guatemala 🚀.
+#### [**Resume**](https://drive.google.com/file/d/1fpMZ7iHZkpb75T_5kod_i7mWlYGaT45c/view?usp=sharing)
 
 ##### SKILLS
 
@@ -17,6 +18,7 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.ai`
 - 💗 Loving Javascript and new challenges
 - 💬 Ask me about apps design, development and life's experiences. 
+
 
 
 ##### SOCIAL
