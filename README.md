@@ -19,6 +19,6 @@
 - 💬 Ask me about apps design, development and life's experiences. 
 
 
-##### Social
+##### SOCIAL
 - [**Instagram (@anthonytech_)**](https://www.instagram.com/anthonytech_)
 - [**Twitter (@anthonytech_)**](https://twitter.com/anthonytech_)
