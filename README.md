@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm a Web and Mobile Developer working in Guatemala, Guatemala 🚀.
-#### [**Resume**](https://drive.google.com/file/d/1fpMZ7iHZkpb75T_5kod_i7mWlYGaT45c/view?usp=sharing)
+#### [**RESUME**](https://drive.google.com/file/d/1fpMZ7iHZkpb75T_5kod_i7mWlYGaT45c/view?usp=sharing)
 
 ##### SKILLS
 
