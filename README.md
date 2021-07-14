@@ -15,7 +15,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at [**Pentcloud**](https://pentcloud.com)
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.svg`, `.ai`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ai`
 - 💗 Loving Javascript and new challenges
 - 💬 Ask me about apps design, development and life's experiences. 
 
