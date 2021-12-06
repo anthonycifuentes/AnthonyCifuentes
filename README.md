@@ -14,7 +14,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**Pentcloud**](https://pentcloud.com)
+- 🏢 I'm currently working at [**Moonshot**](https://www.moonshot.partners/)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ai`
 - 💗 Loving Javascript and new challenges
 - 💬 Ask me about apps design, development and life's experiences. 
