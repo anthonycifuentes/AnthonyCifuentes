@@ -10,13 +10,13 @@
 - 🔵 Ionic
 - 🧿 React Native
 - 👨‍💻 Backend (nodejs, express, sequelize, mySQL)
-- 🎨 Design (Ilustrator, XD, Figma)
+- 🎨 Design (Illustrator, XD, Figma)
 
 ##### BIO
 
-- 🏢 I'm currently working at [**Moonshot**](https://www.moonshot.partners/)
+- 🏢 I'm currently working at [**Moonshot**](https://www.moonshot.partners/)🇬🇧
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.ai`
-- 💗 Loving Javascript and new challenges
+- 💗 Loving Javascript and React
 - 💬 Ask me about apps design, development and life's experiences. 
 
 
