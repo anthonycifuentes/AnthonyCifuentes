@@ -6,7 +6,6 @@
 ##### SKILLS
 
 - ⚛️ ReactJS
-- 🅰 ️Angular
 - 🔵 Ionic
 - 🧿 React Native
 - 👨‍💻 Backend (nodejs, express, sequelize, mySQL)
@@ -22,5 +21,5 @@
 
 
 ##### SOCIAL
-- [**Instagram (@anthonytech_)**](https://www.instagram.com/anthonytech_)
+- [**Instagram (@anthonycifuentes.dev)**](https://www.instagram.com/anthonycifuentes.dev/)
 - [**Twitter (@anthonytech_)**](https://twitter.com/anthonytech_)
