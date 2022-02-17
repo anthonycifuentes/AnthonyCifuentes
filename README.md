@@ -5,7 +5,8 @@
 
 ##### SKILLS
 
-- ⚛️ ReactJS
+- ⚛️ React.js
+- ⚫ Next.js
 - 🔵 Ionic
 - 🧿 React Native
 - 👨‍💻 Backend (nodejs, express, sequelize, mySQL)
