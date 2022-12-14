@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Web and Mobile Developer working in Guatemala, Guatemala 🚀.
+#### I'm a Web and Mobile Developer based on Guatemala 🚀.
 #### [**RESUME**](https://drive.google.com/file/d/1fpMZ7iHZkpb75T_5kod_i7mWlYGaT45c/view?usp=sharing)
 
 ##### SKILLS
@@ -22,5 +22,5 @@
 
 
 ##### SOCIAL
-- [**Instagram (@anthonycifuentes.dev)**](https://www.instagram.com/anthonycifuentes.dev/)
-- [**Twitter (@anthonytech_)**](https://twitter.com/anthonytech_)
+- [**Instagram (@anthonyycifuentes)**](https://www.instagram.com/anthonyycifuentes/)
+- [**Twitter (@devbyanthony)**](https://twitter.com/devbyanthony)
