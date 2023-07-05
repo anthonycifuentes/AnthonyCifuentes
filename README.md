@@ -5,10 +5,8 @@
 
 ##### SKILLS
 
-- ⚛️ React.js
-- ⚫ Next.js
-- 🔵 Ionic
-- 🧿 React Native
+- 🖥️ Frontend (React.js, Next.js)
+- 📱 Mobile (SwiftUI, Ionic, React Native)
 - 👨‍💻 Backend (nodejs, express, sequelize, mySQL)
 - 🎨 Design (Illustrator, XD, Figma)
 
