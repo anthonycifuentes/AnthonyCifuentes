@@ -13,7 +13,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at [**Moonshot**](https://www.moonshot.partners/)🇬🇧
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ai`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.swift`
 - 💗 Loving Javascript and React
 - 💬 Ask me about apps design, development and life's experiences. 
 
