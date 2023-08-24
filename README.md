@@ -20,6 +20,6 @@
 
 
 ##### SOCIAL
-- [**Portfolio**](https://www.anthonycifuentes.dev/)
+- [**Portfolio**](http://www.anthonycifuentes.dev/){target="_blank"}
 - [**Instagram (@anthonyycifuentes.dev)**](https://www.instagram.com/anthonyycifuentes.dev/)
 - [**Twitter (@devbyanthony)**](https://twitter.com/devbyanthony)
