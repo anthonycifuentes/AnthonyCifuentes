@@ -20,5 +20,6 @@
 
 
 ##### SOCIAL
-- [**Instagram (@anthonyycifuentes)**](https://www.instagram.com/anthonyycifuentes/)
+- [**Portfolio (https:://anthonyycifuentes.dev)**](https:://anthonyycifuentes.dev)
+- [**Instagram (@anthonyycifuentes.dev)**](https://www.instagram.com/anthonyycifuentes.dev/)
 - [**Twitter (@devbyanthony)**](https://twitter.com/devbyanthony)
